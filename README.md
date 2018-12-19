@@ -19,3 +19,8 @@ Este repositorio contiene un set curado de recursos y herramientas cuyo próposi
 * **Turtl** : Un notepad online encriptado. (https://turtlapp.com)
 * **Webkay** : Toda la información accesible desde tu navegador. (http://webkay.robinlinus.com/)
 * **Stalkscan** : Sitio web que te indica que información y actividad de facebook tuya permanece publica (https://stalkscan.com)
+* **Politifact** : Sitio que chequea discursos politicos de EEUU (https://www.politifact.com/)
+* **Scimago** : Sitio que posee listado de revistas cientificas y rankings en base a cantidad y calidad de citaciones. (https://www.scimagojr.com/)
+* **Sci-Hub** : Sitio que te permite acceder a revistas cientificas. (https://sci-hub.tw/)
+* **DemocracyOS** : Herramienta de decisión colaborativa. (http://democracyos.org)
+* **Sovereignty** : Herramienta descentralizada de decisión colaborativa. (http://sovereign.software/)
