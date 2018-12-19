@@ -22,5 +22,6 @@ Este repositorio contiene un set curado de recursos y herramientas cuyo próposi
 * **Politifact** : Sitio que chequea discursos politicos de EEUU (https://www.politifact.com/)
 * **Scimago** : Sitio que posee listado de revistas cientificas y rankings en base a cantidad y calidad de citaciones. (https://www.scimagojr.com/)
 * **Sci-Hub** : Sitio que te permite acceder a revistas cientificas. (https://sci-hub.tw/)
+* **Lista de Bell** : Es un sitio con un listado de revistas y conferencias cientificas con prácticas predatorias. (https://beallslist.weebly.com/standalone-journals.html)
 * **DemocracyOS** : Herramienta de decisión colaborativa. (http://democracyos.org)
 * **Sovereignty** : Herramienta descentralizada de decisión colaborativa. (http://sovereign.software/)
